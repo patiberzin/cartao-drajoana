@@ -57,6 +57,10 @@
   margin-bottom: 16px;
 }
 
+.list li {
+  font-size: 0.8em;
+}
+
 .btn {
   display: inline-block; 
   margin-top: 8px;
