@@ -38,6 +38,10 @@
 .container-services,
 .container-call {
   max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   margin: 0 auto;
   padding: 32px;
   margin-bottom: 24px;
@@ -60,7 +64,7 @@
   color: #ffffff;
   border: none;
   border-radius: 8px;
-  padding: 16px 120px;
+  padding: 16px 60px;
   font-size: 1em;
   font-weight: bold;
   cursor: pointer;
